@@ -16,6 +16,6 @@ int main(void)
 { 
     bin(7); 
     printf("\n"); 
-    bin(4); 
-    
-} 
+    bin(4);
+    printf("hello world!");
+}
